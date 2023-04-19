@@ -1,0 +1,7 @@
+Full Name,Abbreviation
+Department of Chinese and Bilingual Studies,CBS
+Department of Chinese Culture,CC
+Department of English and Communication,ELC
+General Education Centre,GEC
+Chinese Language Centre,CLC
+Confucius Institute Hong Kong,CIHK

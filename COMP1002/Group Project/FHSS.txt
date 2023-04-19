@@ -1,0 +1,6 @@
+Full Name,Abbreviation
+Department of Applied Social Sciences,APSS
+Department of Health Technology and Informatics,HTI
+Department of Rehabilitation Sciences,RS
+School of Nursing,SN
+School of Optometry,SO

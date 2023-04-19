@@ -1,0 +1,15 @@
+Manufacturer,Common Names of Vaccine,Dose(s) required
+AstraZeneca/SK Bioscience,Vaxzevria,2
+Anhui Zhifei Longcom Biopharmaceutical,RBM-Dimer,3
+Bharat Biotech,Covaxin,2
+BioNTech,Comirnaty,2
+CanSinoBIO,Convidecia,1
+The Gamaleya National Center of Epidemiology and Microbiology,Sputnik V,2
+Janssen,Janssen COVID-19 Vaccine,1
+Moderna,Moderna COVID-19 Vaccine,2
+Serum Institute of India,Covishield,2
+Sinopharm/Beijing Institute of Biological Products*,BBIBP-CorV,2
+Sinovac,CoronaVac,2
+Institute of Medical Biology Chinese Academy of Medical Science,SARS-COV-2 Vaccine(Vero Cell) inactivated,2
+Shenzhen Kangtai Biological Products,SARS-COV-2 Vaccine(Vero Cell) inactivated,2
+Sinopharm/Wuhan Institute of Biological Products,WIBP-CorV,2

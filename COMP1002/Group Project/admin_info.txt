@@ -1,0 +1,2 @@
+admin_id,admin_name,password
+189092345d,Simon Lee,ebdhsui234

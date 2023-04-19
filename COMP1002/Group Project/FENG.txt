@@ -1,0 +1,8 @@
+Full Name,Abbreviation
+Department of Aeronautical and Aviation Engineering,AAE
+Department of Biomedical Engineering,BME
+Department of Computing,COMP
+Department of Electrical Engineering,EE
+Department of Electronic and Information Engineering,EIE
+Department of Industrial and Systems Engineering,ISE
+Department of Mechanical Engineering,ME

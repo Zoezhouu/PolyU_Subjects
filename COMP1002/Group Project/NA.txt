@@ -1,0 +1,29 @@
+Full Name,Abbreviation
+Academic Registry,AR
+Alumni Affairs and Development Office,AADO
+Campus Development Office,CDO
+Campus Facilities and Sustainability Office,CFSO
+Student Affairs Office,SAO
+Communications and Public Affairs Office,CPA
+Council and Court Secretariat,CCS
+Culture Promotion and Events Office,CPEO
+Educational Development Centre,EDC
+Finance Office,FO
+Global Engagement Office,GEO
+Graduate School,GS
+Health and Safety Office,HSO
+Human Resources Office,HRO
+Industrial Centre,IC
+Information Technology Services Office,ITS
+Institute of Advanced Executive Education,IAEE
+Institutional Planning and Analytics Office,IPAO
+Internal Audit Unit,IAU
+Jockey Club Design Institute for Social Innovation,J.C.DISI
+Knowledge Transfer and Entrepreneurship Office,KTEO
+Mainland Development Office,MDO
+Office of General University Requirements,OGUR
+Office of Undergraduate Studies,OUS
+Pao Yue-Kong Library,LIB
+Research and Innovation Office,RIO
+Service-Learning and Leadership Office,SLLO
+University Health Service,UHS

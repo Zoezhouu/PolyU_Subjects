@@ -1,0 +1,5 @@
+Full Name,Abbreviation
+Department of Building and Real Estate,BRE
+Department of Building Environment and Energy Engineering,BEEE
+Department of Civil and Environmental Engineering,CEE
+Department of Land Surveying and Geo-Informatics,LSGI

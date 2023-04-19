@@ -1,0 +1,16 @@
+21094549d,HU Wenqing,student,COMP,Yes,123qwe123
+99999999d,ZHANG San,staff,ELC,No,asdqwe123
+88888888d,LI Si,staff,HTI,No,qwe123asd
+77777777d,WANG Wu,staff,EIE,No,qweasdjkl
+66666666d,WANG Dali,student,SHTM,Yes,123asd456
+55555555d,LI Si,student,MM,Yes,asd123jkl
+22222222d,HWANG Yeji,student,COMP,Yes,yejicute
+22222233d,SHIN Ryujin,staff,RS,Yes,123qweiop
+98765432d,LI Ming,student,SHTM,Yes,qwerty123
+88988988d,CHAN Tai Man,staff,ITC,No,123zxc123
+87665443d,ZHANG Daming,student,SD,Yes,123qwe789
+21094724d,ZHANG Wanyu,student,COMP,Yes,123789qwe
+25613589d,WANG xiaoming,student,SHTM,Yes,123890iop
+32222222d,ZHANG Daming,student,BME,Yes,123qwe123
+78912356d,LI Wu,staff,GEO,No,123qwe123
+55255355d,ZHANG Manfen,student,LMS,Yes,456

@@ -1,0 +1,10 @@
+Full Name,Abbreviation
+Faculty of Applied Science and Textiles,FAST
+Faculty of Business,FB
+Faculty of Construction and Environment,FCE
+Faculty of Engineering,FENG
+Faculty of Health and Social Sciences,FHSS
+Faculty of Humanities,FH
+School of Design,SD
+School of Hotel and Tourism Management,SHTM
+Others,NA

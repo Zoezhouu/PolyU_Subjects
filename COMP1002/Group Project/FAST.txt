@@ -1,0 +1,5 @@
+Full Name,Abbreviation
+Department of Applied Biology and Chemical Technology,ABCT
+Department of Applied Mathematics,AMA
+Department of Applied Physics,AP
+Institute of Textiles and Clothing,ITC

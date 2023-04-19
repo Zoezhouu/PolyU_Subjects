@@ -1,0 +1,4 @@
+Full Name,Abbreviation
+Department of Logistics and Maritime Studies,LMS
+Department of Management and Marketing,MM
+School of Accounting and Finance,AF
