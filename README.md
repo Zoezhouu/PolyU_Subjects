@@ -16,3 +16,17 @@ Subject works (subjects Zoe attended in HK PolyU)
 2021-2022 Semester 3:
 - ME1D01
 
+2022-2023 Semester 1:
+- COMP2011
+- COMP2012
+- COMP2021
+- COMP2411
+- COMP2S01
+- AMA1500
+
+2022-2023 Semester 2:
+- COMP2322
+- COMP2421
+- COMP2432
+- COMP3121
+- AMA2111
