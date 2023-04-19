@@ -1,0 +1,14 @@
+Sub-concept 2
+Multiple Linear Regression
+Model: yi = b0 + b1 * x1 + b2 * x2 + n.
+In regression analysis, if there are two or more independent variables, it is called multiple regression. 
+In fact, a phenomenon is often associated with multiple factors. 
+It is more practical to predict the dependent variable by the optimal combination of multiple independent variables than to use only one independent variable. 
+Therefore, multiple linear regression is more practical than one linear regression.
+
+How to calculate:(using least squares estimation again to two-variable regression model)
+∑y = n * b0 + b1 * ∑x1 +b2 * ∑x2
+∑(x1 * y) = b0 * ∑x1 + b1 * ∑(x1 * x1) + b2 * ∑(x1 * x2)
+∑(x2 * y) = b0 * ∑x2 + b1 * ∑(x1 * x2) + b2 * ∑(x2 * x2)
+And then solve these three equation 
+

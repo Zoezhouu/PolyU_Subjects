@@ -1,0 +1,19 @@
+Sub-concept 1
+R-value
+Resource from: https://quantifyinghealth.com/relationship-between-r-and-r-squared/
+R-squared is a measure of how well a linear regression model fits the data. 
+It can be interpreted as the proportion of variance of the outcome Y explained by the linear regression model.
+
+It is a number between 0 and 1. 
+The closer its value is to 1, the more variability the model explains. 
+And R2 = 0 means that the model cannot explain any variability in the outcome Y.
+
+On the other hand, the correlation coefficient R is a measure that quantifies the strength of the linear relationship between 2 variables.
+
+r is a number between -1 and 1 :
+- A value of r close to -1: negative correlation between the variables (when one increases the other decreases and vice versa)
+- A value of r close to 0: 2 variables are not correlated (no linear relationship exists between them)
+- A value of r close to 1: positive linear relationship between the 2 variables (when one increases, the other does)
+
+r-value measures the extent of accuracy of the calculated line.
+r = sum of(Xi-average x)(Yi-average y)/square root of(sum of (Xi-average X)^2*sum of(Yi-average Y)^2)

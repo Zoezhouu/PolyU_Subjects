@@ -1,0 +1,25 @@
+Introduction: 
+Linear regression is a linear approach for modelling the relationship between a scalar response and one or more variables (also known as dependent and independent variables).
+In the case of one variable, the process is called simple linear regression.
+For more than one variable, it is called mutiple linear regression.
+In a word, there are many points in the coordinate system, and the purpose of Linear Regression is to find a line so that the points are on or around the line. 
+
+Model:
+y = a * x + b
+
+Calculation Process:
+Let's take two-dimensional data as an example:
+We have a set of data x and y, where x is our independent variable and y is dependent variable of each x. 
+We need to find a and b to get a line y = a x + b, and the a and b of this line are the parameters we need for linear regression.
+But how can we calculate a and b, we should firstly understand its machanism.
+As we known, we should make sure all points on the line or near the line as accurate as possible.
+So we should make sure the difference between dependent variable y and estimated y as small as possible.
+That is, | y - (ax + b) | is being smaller.
+Difference should be smaller, and we can calculate that a =  ( sum of(x*y) - sum of(average x* average y))/(sum of (x squared) - sum of(square of average x))
+b = average y - (a * average x)
+This process is also called Least Squares Estimation.
+
+Application:
+- Trend Line: It represents the long-term trend of time series data. It tells us whether a particular set of data (such as GDP, and stock prices) is growing or falling over a period of time. 
+    While it is possible to visually observe the position of the data in the coordinate system to draw a general trend line, it is more appropriate to use linear regression to calculate the coordinates of the point and slope of the trend line to estimate the variance tendency.
+- Machine Learning: the linear regression model is trained to find the best-fit line between independent variable and dependent variable.
