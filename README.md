@@ -1,5 +1,5 @@
-# PolyU_Classes
-Works of Classes Zoe attended in HK PolyU
+# PolyU_Subjects
+Subject works (subjects Zoe attended in HK PolyU)
 
 2021-2022 Semester 1:
 - CBS1C12P
