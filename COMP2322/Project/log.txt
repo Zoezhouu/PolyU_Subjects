@@ -1,0 +1,13 @@
+|	Client IP	|   		Access Time 			|   File Name   | Response  |
+|	127.0.0.1	|	Tue, 18 Apr 2023 08:32:14 GMT	|	index.html	|	200		|
+|	127.0.0.1	|	Tue, 18 Apr 2023 08:40:18 GMT	|	index.html	|	200		|
+|	127.0.0.1	|	Tue, 18 Apr 2023 08:42:23 GMT	|	index.html	|	200		|
+|	127.0.0.1	|	Tue, 18 Apr 2023 08:43:18 GMT	|	index.html	|	200		|
+|	127.0.0.1	|	Tue, 18 Apr 2023 08:47:06 GMT	|	404.html	|	404		|
+|	127.0.0.1	|	Tue, 18 Apr 2023 08:49:38 GMT	|	404.html	|	404		|
+|	127.0.0.1	|	Tue, 18 Apr 2023 08:53:17 GMT	|	404.html	|	404		|
+|	127.0.0.1	|	Tue, 18 Apr 2023 08:54:55 GMT	|	404.html	|	404		|
+|	127.0.0.1	|	Tue, 18 Apr 2023 09:14:06 GMT	|	400.html	|	400		|
+|	127.0.0.1	|	Tue, 18 Apr 2023 09:16:40 GMT	|	index.html	|	200		|
+|	127.0.0.1	|	Tue, 18 Apr 2023 09:17:56 GMT	|	index.html	|	200		|
+|	127.0.0.1	|	Tue, 18 Apr 2023 09:17:56 GMT	|	index.html	|	200		|
