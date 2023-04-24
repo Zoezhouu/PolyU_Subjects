@@ -5,7 +5,7 @@
 - They will have a competition on the last day as a concluding event.
 - Our PolyU students are required to provide teaching, consulting, instructing in the workshop in 5 days.
 ---
-- Contents include:
+- Teaching contents include:
   - Concepts of AI, machine learning, and their application in daily life.
   - Issues related to data bias in machine learning.
   - How AI object recognition technology can be applied for social goods.
@@ -13,6 +13,6 @@
     - by calculate distance & angles 
   - Ethical issues of AI
 
-- Instructions on 
+- Instructions on:
   - Presentation on application of AI for social goods
   - Programming on drones by Mind+
