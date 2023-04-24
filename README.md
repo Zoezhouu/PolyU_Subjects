@@ -3,7 +3,7 @@ Subject works (subjects Zoe attended in HK PolyU)
 
 ## Listed by Category of the Subject
 
-#### **COMPUTING Compusory Subjects**
+#### COMPUTING Compusory Subjects
 - AMA1104 - INTRODUCTORY PROBABILITY - Transferred
 - COMP1002 - COMPUTATIONAL THINKING AND PROBLEM SOLVING
 - COMP1011 - PROGRAMMING FUNDAMENTALS
