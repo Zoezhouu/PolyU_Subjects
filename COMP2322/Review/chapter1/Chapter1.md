@@ -54,11 +54,11 @@
 - HFC: hybrid fiber coax
 - share access network
 - frequency division multiplexing
-**Access network: home network**
+- **Access network: home network**
 
 ##### Enterprise access networks(Ethernet)
-used in company, universities
-end system typically connected into Ethernet
+- used in company, universities
+- end system typically connected into Ethernet
 
 ##### Wireless access networks
 connects end system to router
@@ -71,7 +71,7 @@ connects end system to router
 - physical link - b/t transmitter & receiver
 - guided media - in solid media
 - unguided media - radia
-*twisted pair(TP)  - copper wire
+- *twisted pair(TP)  - copper wire
 
 ##### Coax, fiber
 - coaxial cable
@@ -90,8 +90,8 @@ connects end system to router
 - terrestrial microwave/LAN/wide-area/satellite
 
 **Packet transmission delay**
-packet transmission delay = time needed to transmit L-bit packet into link 
- = L(packetlength/bit) / R(transmission rate/link bandwidth/capacity)
+- packet transmission delay = time needed to transmit L-bit packet into link 
+- = L(packetlength/bit) / R(transmission rate/link bandwidth/capacity)
 
 ## Network Core
 #### Packet Switching
@@ -122,8 +122,6 @@ packet transmission delay = time needed to transmit L-bit packet into link
 
 excessive congestion possible:
 ### Network Structure
-network of networks
-every other
 - O(n^2) connections(n: no. of access net)
 global ISP to global ISP
 - internet exchange point
@@ -138,7 +136,7 @@ global ISP to global ISP
 - no free buffer: loss
 
 #### Delay
-D(nodal) = d(nodal processing) + d(queue) + d(trans) + d(prop)
+**D(nodal) = d(nodal processing) + d(queue) + d(trans) + d(prop)**
 - nodal processing: check bit error/determine output link
 - queuing delay:L(length)*a(arrival rate)/R(bandwidth) 
   - time waiting at output link for transmission, depends on congesting
