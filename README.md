@@ -5,17 +5,17 @@ Subject works (subjects Zoe attended in HK PolyU)
 
 #### COMPUTING Compusory Subjects
 - AMA1104 - INTRODUCTORY PROBABILITY - Transferred
-- COMP1002 - COMPUTATIONAL THINKING AND PROBLEM SOLVING (Python 3)
-- COMP1011 - PROGRAMMING FUNDAMENTALS (C++ Language)
-- COMP1411 - INTRODUCTION TO COMPUTER SYSTEM (C Language, Machine Language, x86 Assembly Language)
-- COMP1433 - INTRODUCTION TO DATA ANALYTICS (R Language)
-- COMP2011 - DATA STRUCTURE (Java)
-- COMP2012 - DISCRETE MATHEMATICS
-- COMP2021 - OBJECT-ORIENTED PROGRAMMING (Java)
-- COMP2322 - COMPUTER NETWORKING (Python 3)
-- COMP2411 - DATABASE SYSTEMS (Oracle SQL & Java)
-- COMP2421 - COMPUTER ORGANIZATION (Machine Language, MIPS Assembly Language)
-- COMP2432 - OPERATING SYSTEM (C Language & Shell script on Linux System)
+- [COMP1002](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP1002) - COMPUTATIONAL THINKING AND PROBLEM SOLVING (Python 3)
+- [COMP1011](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP1011) - PROGRAMMING FUNDAMENTALS (C++ Language)
+- [COMP1411](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP1411) - INTRODUCTION TO COMPUTER SYSTEM (C Language, Machine Language, x86 Assembly Language)
+- [COMP1433](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP1433) - INTRODUCTION TO DATA ANALYTICS (R Language)
+- [COMP2011](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2011) - DATA STRUCTURE (Java)
+- [COMP2012](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2012) - DISCRETE MATHEMATICS
+- [COMP2021](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2021) - OBJECT-ORIENTED PROGRAMMING (Java)
+- [COMP2322](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2322) - COMPUTER NETWORKING (Python 3)
+- [COMP2411](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2411) - DATABASE SYSTEMS (Oracle SQL & Java)
+- [COMP2421](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2421) - COMPUTER ORGANIZATION (Machine Language, MIPS Assembly Language)
+- [COMP2432](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2432) - OPERATING SYSTEM (C Language & Shell script on Linux System)
 
 #### COMPUTING Elective Subjects
 - COMP3121 - SOCIAL AND COLLABORATIVE COMPUTING
