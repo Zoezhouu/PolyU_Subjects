@@ -22,19 +22,19 @@ Subject works (subjects Zoe attended in HK PolyU)
 
 #### GUR Courses
 - CAR
-  - CBS1C12P (CRCW) - CHINESE LANGUAGE AND THE CHINESE SOCIETIES
-  - ME1D01 (EREW) - ENGINEERING AND ENVIRONMENTAL MANAGEMENT
+  - [CBS1C12P](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/CBS1C12P) (CRCW) - CHINESE LANGUAGE AND THE CHINESE SOCIETIES
+  - [ME1D01](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/ME1D01) (EREW) - ENGINEERING AND ENVIRONMENTAL MANAGEMENT
 - Leadership Course
-  - APSS1L01 - TOMORROW'S LEADER
+  - [APSS1L01](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/APSS1L01) - TOMORROW'S LEADER
 - Service Learning Course
-  - COMP2S01 - TECHNOLOGY BEYOND BORDERS: SERVICE LEARNING ACROSS CULTURAL, ETHNIC AND
+  - [COMP2S01](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2S01) - TECHNOLOGY BEYOND BORDERS: SERVICE LEARNING ACROSS CULTURAL, ETHNIC AND
 
 #### LCR Courses
-- CLC1104P - UNIVERSITY CHINESE
+- [CLC1104P](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/CLC1104P) - UNIVERSITY CHINESE
 - ELC2012 - PERSUASIVE COMMUNICATION
 
 #### Minor AMA Courses
-- AMA1500 - (Prerequisite of AMA2111) FOUNDATION MATHEMATICS FOR ACCOUNTING AND FINANCE
+- [AMA1500](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/AMA1500) - (Prerequisite of AMA2111) FOUNDATION MATHEMATICS FOR ACCOUNTING AND FINANCE
 - AMA2111 - MATHEMATICS I
 
 ---
