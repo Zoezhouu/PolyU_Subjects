@@ -18,7 +18,7 @@ Subject works (subjects Zoe attended in HK PolyU)
 - [COMP2432](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2432) - OPERATING SYSTEM (C Language & Shell script on Linux System)
 
 #### COMPUTING Elective Subjects
-- COMP3121 - SOCIAL AND COLLABORATIVE COMPUTING
+- [COMP3121](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP3121) - SOCIAL AND COLLABORATIVE COMPUTING
 
 #### GUR Courses
 - CAR
