@@ -3,7 +3,7 @@ Subject works (subjects Zoe attended in HK PolyU)
 
 ## Listed by Subject Category
 
-#### COMPUTING Compusory Subjects
+#### COMPUTING Compulsory Subjects
 - AMA1104 - INTRODUCTORY PROBABILITY - Transferred
 - [COMP1002](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP1002) - COMPUTATIONAL THINKING AND PROBLEM SOLVING (Python 3)
 - [COMP1011](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP1011) - PROGRAMMING FUNDAMENTALS (C++ Language)
