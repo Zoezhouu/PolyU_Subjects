@@ -21,7 +21,7 @@ Subject works (subjects attended in HK PolyU)
 
 #### COMPUTING Elective Subjects
 - [COMP3121](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP3121) - SOCIAL AND COLLABORATIVE COMPUTING
-- - [COMP4342](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP4342) - MOBILE COMPUTING
+- [COMP4342](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP4342) - MOBILE COMPUTING
 
 #### GUR Courses
 - CAR
