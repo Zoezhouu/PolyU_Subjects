@@ -1,0 +1,91 @@
+Test coverage:
+
+updateContact:
+Original contact: Max, PQ666, 66666666
+Name      Address      Mobile_num       Expected result        BranchesCovered
+Amy       PQ666        66666666         Amy, PQ666, 66666666  c31 = True
+Max       PQ888        66666666         Max, PQ888, 66666666  c31 = False , c33 = True
+Max       PQ666        88888888         Max, PQ666, 88888888  c31 = False , c33 = False , c35 = True
+
+updateEvent:
+Original event: Group Meeting,2023/11/11 13:00, 2023/11/11 12:50
+Description      Start_time        Alarm              Expected result                                     BranchesCovered
+Presentation     2023/11/11 13:00  2023/11/11 12:50   Presentation,2023/11/11 13:00, 2023/11/11 12:50     c30 = True
+Group Meeting    2023/11/11 15:00  2023/11/11 12:50   Group Meeting,2023/11/11 15:00, 2023/11/11 12:50    c30 = False , c32 = True
+Group Meeting    2023/11/11 13:00  2023/11/11 14:50   Group Meeting,2023/11/11 13:00, 2023/11/11 14:50    c30 = False , c32 = False ,c34 = True
+
+updateNote:
+Original note: hi
+Content       Expected result       BranchesCovered   
+hello         hello                 c26 = True
+
+updateTask:
+Original task: Assignment 1,2023/10/01 23:59
+Description      Deadline           Expected result                 BranchesCovered
+Group Report     2023/10/01 23:59   Group Report,2023/10/01 23:59   c28 = True
+Assignment 1     2023/10/11 23:59   Assignment 1,2023/10/11 23:59   c28 = False , c30 = True
+
+matches_text:
+text criteria = time
+text = time, Address, Deadline
+text    Expected result   BranchesCovered
+time    time              c18 = True
+
+
+matches_time:
+time criteria: 2023/11/29 23:59
+time: 2023/10/01 23:59, 2023/11/29 23:59, 2023/12/01 23:59
+condition    Expected result      BranchesCovered
+<            2023/10/01 23:59     c31 = True
+>            2023/12/01 23:59     c31 = False, c33 = True
+=            2023/11/29 23:59     c31 = False, c33 = False, c35 = True
+!            pass                 c31 = False, c33 = False, c35 = False, c37 = True
+
+findIndex:
+Search matches     Expected result       BranchesCovered
+1                  Note                  c49 = True
+2                  Task                  c49 = False, c51 = True
+3                  Contact               c49 = False, c51 = False, c53 = True
+4                  Event                 c49 = False, c51 = False, c53 = False, c55 = True
+5                  End                   c49 = False, c51 = False, c53 = False, c55 = False, 57 = True
+
+matches_type:
+type 1 Content:hello
+search type   Expected result      BranchesCovered
+1             hello                c68 = True
+7             (none)               c68 = False, c70 = True
+
+not_included_file:
+found line   Expected result   BranchesCovered
+hi           hi                c78 = True
+
+not_ornot_filter_text:
+search: hi
+text: hi, hello, bye
+not_ornot    Expected result   BranchesCovered
+-            hello, bye        c83 = True
++            hi                c83 = False, c85 = True
+
+not_ornot_filter_time:
+search: 2023/10/01 23:59
+time: 2023/10/01 23:59, 2023/11/01 23:59
+not_ornot    Expected result    BranchesCovered
+-            2023/11/01 23:59   c90 = True
++            2023/10/01 23:59   c90 = False, c92 = True
+
+get index:
+found line    Expected result    BranchesCovered
+'Note'        [1]                c111 = True
+'Test'        []                 c111 = False
+
+
+delete:
+line len = 3
+line:
+line 1:hi, line 2:hihi, line3:hihihi         BranchesCovered
+line number     Expected result
+1               line 1:hihi, line2:hihihi    c110 = True
+
+checkDateFormat:
+date         Expected result      BranchesCovered
+(none)       False                c116 = True
