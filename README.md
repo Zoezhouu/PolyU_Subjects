@@ -1,5 +1,5 @@
 # PolyU_Subjects
-Subject works (subjects Zoe attended in HK PolyU)
+Subject works (subjects attended in HK PolyU)
 
 ## Listed by Subject Category
 
@@ -16,9 +16,12 @@ Subject works (subjects Zoe attended in HK PolyU)
 - [COMP2411](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2411) - DATABASE SYSTEMS (Oracle SQL & Java)
 - [COMP2421](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2421) - COMPUTER ORGANIZATION (Machine Language, MIPS Assembly Language)
 - [COMP2432](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2432) - OPERATING SYSTEM (C Language & Shell script on Linux System)
+- [COMP3211](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP3211) - SOFTWARE ENGINEERING
+- [COMP3423](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP3423) - HUMAN COMPUTER INTERACTION
 
 #### COMPUTING Elective Subjects
 - [COMP3121](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP3121) - SOCIAL AND COLLABORATIVE COMPUTING
+- [COMP4342](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP4342) - MOBILE COMPUTING
 
 #### GUR Courses
 - CAR
@@ -29,13 +32,14 @@ Subject works (subjects Zoe attended in HK PolyU)
 - Service Learning Course
   - [COMP2S01](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2S01) - TECHNOLOGY BEYOND BORDERS: SERVICE LEARNING ACROSS CULTURAL, ETHNIC AND
 
-#### LCR Courses
+#### Language Courses
 - [CLC1104P](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/CLC1104P) - UNIVERSITY CHINESE
 - ELC2012 - PERSUASIVE COMMUNICATION
 
 #### Minor AMA Courses
 - [AMA1500](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/AMA1500) - (Prerequisite of AMA2111) FOUNDATION MATHEMATICS FOR ACCOUNTING AND FINANCE
 - AMA2111 - MATHEMATICS I
+- AMA1602 - INTRODUCTION TO STATISTICS
 
 ---
 
@@ -47,3 +51,4 @@ Subject works (subjects Zoe attended in HK PolyU)
 - 2022-2023 Semester 1: **COMP2011**, **COMP2012**, **COMP2021**, **COMP2411**, COMP2S01, AMA1500
 - 2022-2023 Semester 2: **COMP2322**, **COMP2421**, **COMP2432**, COMP3121, AMA2111
 - 2022-2023 Semester 3: WIE(COMP3000)
+- 2023-2024 Semester 1: **COMP3211**, **COMP3423**, **COMP3438**, COMP4342, CLC3242P, AMA1602
