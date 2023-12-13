@@ -1,0 +1,14 @@
+Django==3.2.22
+djangorestframework==3.14.0
+psycopg2-binary==2.9.1
+gunicorn==20.1.0
+mysqlclient
+mysql-connector
+mysql-connector-python
+
+djangorestframework
+markdown       
+django-filter  
+django-cors-headers
+retrying
+Pillow

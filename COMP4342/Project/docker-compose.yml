@@ -1,0 +1,30 @@
+version: '3'
+services:
+  backend:
+    build:
+      context: ./backend # Path to the backend project directory
+    ports:
+      - "8000:8000" # Map the Django application port to the host
+    command: python manage.py runserver 0.0.0.0:8000  # Listen on all interfaces
+    restart: always
+    volumes:
+      - ./backend:/app
+    depends_on:
+      - mysql
+    environment:
+      - DATABASE_HOST=mysql
+      - DATABASE_NAME=mobile
+      - DATABASE_USER=admin
+      - DATABASE_PASSWORD=admin
+
+  mysql:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: admin
+      MYSQL_DATABASE: mobile
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: admin
+    ports:
+      - "127.0.0.1:3306:3306"  # Bind MySQL to localhost only
+    volumes:
+      - ./backend/DB:/var/lib/mysql
