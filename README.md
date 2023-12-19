@@ -1,7 +1,6 @@
 # PolyU_Subjects
 Subject works (subjects attended in HK PolyU)
-
-## Listed by Subject Category
+---
 
 #### COMPUTING Compulsory Subjects
 - AMA1104 - INTRODUCTORY PROBABILITY - Transferred
@@ -41,14 +40,4 @@ Subject works (subjects attended in HK PolyU)
 - AMA2111 - MATHEMATICS I
 - AMA1602 - INTRODUCTION TO STATISTICS
 
----
-
-## Listed by Semester
-(Compulsory classes are **in bold**)
-- 2021-2022 Semester 1: CBS1C12P, **COMP1002**, APSS1L01, ELC2012 
-- 2021-2022 Semester 2: CLC1104P, **COMP1011**, **COMP1411**, **COMP1433**
-- 2021-2022 Semester 3: ME1D01
-- 2022-2023 Semester 1: **COMP2011**, **COMP2012**, **COMP2021**, **COMP2411**, COMP2S01, AMA1500
-- 2022-2023 Semester 2: **COMP2322**, **COMP2421**, **COMP2432**, COMP3121, AMA2111
-- 2022-2023 Semester 3: WIE(COMP3000)
-- 2023-2024 Semester 1: **COMP3211**, **COMP3423**, **COMP3438**, COMP4342, CLC3242P, AMA1602
+---END---
