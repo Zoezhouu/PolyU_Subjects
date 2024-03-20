@@ -17,10 +17,14 @@ Subject works (subjects attended in HK PolyU)
 - [COMP2432](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP2432) - OPERATING SYSTEM (C Language & Shell script on Linux System)
 - [COMP3211](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP3211) - SOFTWARE ENGINEERING
 - [COMP3423](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP3423) - HUMAN COMPUTER INTERACTION
+- COMP3438 - SYSTEM PROGRAMMING
+- COMP3334 - COMPUTER SYSTEMS SECURITY
+- COMP3511 - LEGAL ASPECTS AND ETHICS OF COMPUTING
 
 #### COMPUTING Elective Subjects
 - [COMP3121](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP3121) - SOCIAL AND COLLABORATIVE COMPUTING
 - [COMP4342](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP4342) - MOBILE COMPUTING
+- COMP4423 - COMPUTER VISION
 
 #### GUR Courses
 - CAR
@@ -39,5 +43,7 @@ Subject works (subjects attended in HK PolyU)
 - [AMA1500](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/AMA1500) - (Prerequisite of AMA2111) FOUNDATION MATHEMATICS FOR ACCOUNTING AND FINANCE
 - AMA2111 - MATHEMATICS I
 - AMA1602 - INTRODUCTION TO STATISTICS
+- AMA2691 - PROBABILITY & DISTRIBUTION
+- AMA4840 - DECISION ANALYSIS
 
 ---END---
