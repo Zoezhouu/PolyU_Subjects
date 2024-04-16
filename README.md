@@ -1,6 +1,5 @@
 # PolyU_Subjects
-Subject works (subjects attended in HK PolyU)
----
+- Subject works
 
 #### COMPUTING Compulsory Subjects
 - AMA1104 - INTRODUCTORY PROBABILITY - Transferred
