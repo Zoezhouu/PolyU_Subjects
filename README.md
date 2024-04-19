@@ -25,6 +25,7 @@
 - [COMP4342](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/COMP4342) - MOBILE COMPUTING
 - COMP4423 - COMPUTER VISION
 
+<!--
 #### GUR Courses
 - CAR
   - [CBS1C12P](https://github.com/Zoezhouu/PolyU_Subjects/tree/main/CBS1C12P) (CRCW) - CHINESE LANGUAGE AND THE CHINESE SOCIETIES
@@ -44,5 +45,5 @@
 - AMA1602 - INTRODUCTION TO STATISTICS
 - AMA2691 - PROBABILITY & DISTRIBUTION
 - AMA4840 - DECISION ANALYSIS
-
+-->
 ---END---
