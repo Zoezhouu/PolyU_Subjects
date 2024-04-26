@@ -1,5 +1,4 @@
-# PolyU_Subjects
-- Subject works
+# PolyU COMP Subject works
 
 #### COMPUTING Compulsory Subjects
 - AMA1104 - INTRODUCTORY PROBABILITY - Transferred
