@@ -17,7 +17,7 @@
 - [COMP3423](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP3423) - HUMAN COMPUTER INTERACTION
 - [COMP3438](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP3438) - SYSTEM PROGRAMMING
 - COMP3334 - COMPUTER SYSTEMS SECURITY
-- COMP3511 - LEGAL ASPECTS AND ETHICS OF COMPUTING
+- [COMP3511](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP3511) - LEGAL ASPECTS AND ETHICS OF COMPUTING
 
 #### COMPUTING Elective Subjects
 - [COMP3121](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP3121) - SOCIAL AND COLLABORATIVE COMPUTING
