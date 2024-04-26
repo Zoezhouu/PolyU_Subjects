@@ -4,4 +4,5 @@
 ### Contents
 - Assessment: A1, A2
 - Project: Library Management System
+  - Link: https://github.com/zoezhousy/Library_Management_System
 - Notes: Review
