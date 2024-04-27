@@ -1,7 +1,6 @@
 # PolyU COMP Subject works
 
 #### COMPUTING Compulsory Subjects
-- AMA1104 - INTRODUCTORY PROBABILITY - Transferred
 - [COMP1002](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP1002) - COMPUTATIONAL THINKING AND PROBLEM SOLVING (Python 3)
 - [COMP1011](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP1011) - PROGRAMMING FUNDAMENTALS (C++ Language)
 - [COMP1411](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP1411) - INTRODUCTION TO COMPUTER SYSTEM (C Language, Machine Language, x86 Assembly Language)
