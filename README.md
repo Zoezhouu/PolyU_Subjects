@@ -15,7 +15,7 @@
 - [COMP3211](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP3211) - SOFTWARE ENGINEERING
 - [COMP3423](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP3423) - HUMAN COMPUTER INTERACTION
 - [COMP3438](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP3438) - SYSTEM PROGRAMMING
-- COMP3334 - COMPUTER SYSTEMS SECURITY
+- [COMP3334](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP3334) - COMPUTER SYSTEMS SECURITY
 - [COMP3511](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP3511) - LEGAL ASPECTS AND ETHICS OF COMPUTING
 
 #### COMPUTING Elective Subjects
