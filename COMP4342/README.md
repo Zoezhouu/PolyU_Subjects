@@ -4,6 +4,4 @@
 
 ### Content
 - Assignment: Paper for Internet of Things
-- Group Project: Personal Information Manager
-  - Link:
 - Review: Lecture 1-7
