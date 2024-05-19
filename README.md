@@ -21,7 +21,7 @@
 #### COMPUTING Elective Subjects
 - [COMP3121](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP3121) - SOCIAL AND COLLABORATIVE COMPUTING
 - [COMP4342](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP4342) - MOBILE COMPUTING
-- COMP4423 - COMPUTER VISION
+- [COMP4423](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP4423) - COMPUTER VISION
 
 <!--
 #### GUR Courses
