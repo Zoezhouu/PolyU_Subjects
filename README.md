@@ -22,6 +22,8 @@
 - [COMP3121](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP3121) - SOCIAL AND COLLABORATIVE COMPUTING
 - [COMP4342](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP4342) - MOBILE COMPUTING
 - [COMP4423](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP4423) - COMPUTER VISION
+- [COMP4432](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP4432) - MACHINE LEARNING
+- [COMP4433](https://github.com/zoezhousy/PolyU_COMP_works/tree/main/COMP4433) - DATA MINING & DATA WAREHOUSING
 
 <!--
 #### GUR Courses
